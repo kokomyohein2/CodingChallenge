@@ -12,7 +12,6 @@ package com.kkmhh.codingchallenge.codility;
 public class FindingSqrt {
 
     public static void main(String[] args) {
-        System.out.println("hi");
         System.out.println(solution(1000, 2000));
     }
 
